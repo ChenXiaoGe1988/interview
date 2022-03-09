@@ -1,0 +1,16 @@
+target/
+.svn/
+bin/
+.metadata/
+.settings/
+.myeclipse/
+.classpath
+.project
+.mymetadata
+.myumldata
+classes/
+*.class
+.tern-project
+node_modules/
+*.iml
+logs/
